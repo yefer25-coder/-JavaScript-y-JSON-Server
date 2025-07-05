@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 4000,
+      "description": "Powerful gaming laptop."
+    },
+    {
+      "id": "2",
+      "name": "Keyboard",
+      "price": 10000,
+      "description": "Keyboard with LED lights."
+    },
+    {
+      "id": "3",
+      "name": "Mouse",
+      "price": 15000,
+      "description": ""
+    }
+  ]
+}
